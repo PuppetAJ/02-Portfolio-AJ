@@ -15,7 +15,7 @@ Once I completed this task I deployed the project onto GitHub Pages.
 ![Preview](./assets/images/site-preview.jpg)
 
 ## Website
-
+https://puppetaj.github.io/02-Portfolio-AJ/
 
 ## Credits
 Made by Adrian Jimenez
