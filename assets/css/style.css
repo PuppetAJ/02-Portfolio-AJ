@@ -232,6 +232,11 @@ header nav ul li a {
     background-position: 60%;
 }
 
+#bg4 {
+    background-image: url(../images/bg4.jpg);
+    background-position: 60%;
+}
+
 /* Work styles end */
 
 /* Contact styles start */ 
